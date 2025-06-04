@@ -31,8 +31,24 @@
 
 **Лекции** 
 
-[3] [Пример классификации изображений](https://github.com/Adelaaas/summer_AI/blob/main/6_%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(Lamoda).ipynb) 
+[6] [Пример классификации изображений (Lamoda)](https://github.com/Adelaaas/summer_AI/blob/main/6_%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9_(Lamoda).ipynb) \
+[7] [Задачи сегментации. Введение]()
 
 **Задания** 
 
-[5] [Решить задачу классификации видео](https://www.kaggle.com/competitions/what-on-the-video)
+[5] [Решить задачу классификацией картинок с Lamoda (у каждого своя готовая архитектура + самописная сетка, минимум две загрузки на Kaggle](https://www.kaggle.com/competitions/lamoda-images-classification/) \
+[6] [Решить задачу классификации видео (**до 10 июня**)](https://www.kaggle.com/competitions/what-on-the-video)
+
+## 5 июня
+
+**Лекции** 
+
+[7] [Пример сегментации изображений]()
+
+**Задания** 
+
+[5] [Обучить нейронную сеть сегментировать кружочки. Код для генерации кружочков и масок.]() 
+
+## Final project
+
+[Варианты и распределение финального задания + требование к результатам и отчету.]()
